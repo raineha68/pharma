@@ -422,8 +422,8 @@ div#carousel-example-generic {
 div.form-group {
     position:absolute;
     z-index:9999999;
-    top:20px; /* change to whatever you want */
-    left:1000px; /* change to whatever you want */
+    top:40px; /* change to whatever you want */
+    left:900px; /* change to whatever you want */
     right:auto; /* change to whatever you want */
     bottom:auto; /* change to whatever you want */
 }
